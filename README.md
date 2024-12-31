@@ -104,4 +104,7 @@ This project underscores Seaborn's significance in simplifying data visualizatio
 Master’s Student in Computer Science  
 Indiana University Bloomington  
 
+
 For any questions or suggestions, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/varunsonawane).
+
+
